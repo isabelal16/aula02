@@ -1,0 +1,33 @@
+.produto{
+    width: 250px;
+    border:1px solid #ccc;
+    border-radius: 10px;
+    padding: 30px;
+    display: inline-block;
+    margin: 20px;
+    background-color: #f2e8df;
+    
+    
+
+
+}
+
+.produto button{
+    padding: 10px 30px;
+    border-radius: 7px;
+    border: none;
+    background: #bf9b7a;
+    color: #f2e8df;
+    
+
+
+}
+
+.produto img{
+    width: 150px;
+   
+   
+    
+
+}
+

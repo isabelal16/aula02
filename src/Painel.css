@@ -1,0 +1,18 @@
+.painel{
+    background: #bf9b7a;
+    border-top: 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 40px;
+}
+
+.painel p{
+    font-size: 50px;
+    border-top: 0;
+    
+}
+
+.painel img{
+   width: 30%;
+}
+

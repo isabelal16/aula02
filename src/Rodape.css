@@ -1,0 +1,16 @@
+.rodape{
+    margin: 0;
+    padding: 100px;
+    background: grey;
+    color: white;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-around;
+
+   
+}
+
+.rodape img{
+
+width: 400px;
+}
